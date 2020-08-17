@@ -15,6 +15,12 @@ after_success:
         - docker push anoopkr05/multi-nginx
         - docker push anoopkr05/multi-server
         - docker push anoopkr05/multi-worker
+deploy:
+        provider: gae
+        keyfile: musicapp.json
+        project: musicapp-e626f
+        on:
+               all_branches: true
 #deploy:
 #        provider: elasticbeanstalk
 #        region: "ap-south-1"

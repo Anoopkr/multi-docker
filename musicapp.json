@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "musicapp-e626f",
+  "private_key_id": "b42289f3e4bb064f56f26f3de1c55d3364fbc8d2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCpWY/POvCYqa55\nDDJzpiJ0Uan78jmVcUAMeDfkEFboeaMvKp/o7AyIWfLbpOHPKg3TxzszylfFMWQS\nvtdOjlRekw7KzXvVvrErivc7DcxUZf0pxPDvQoXZwHmOXimQf0rBPZiu8ZO4CtAE\nizqB0rrR/qBCwdVdfMQdtDV90g/GREnSab3eToLwgMhi93nSlRWRBMuJKJimranj\nNEh2ymP+vWod/3avOwQ8fseXgPVuZzcUtCmjdqE9Ym4NTXQWIOeKWqcTnNEI9Uyr\n580AXtHvM3mgZdlLTUF9ygb4sRudoH/94VVhsfe8wzZy2G4aBkzD4E57rTx2eGiO\nK+lYEF2FAgMBAAECggEAM9BStzlVzqev2ZpZP1gX15X617qjUq1tRsNrekxjgspg\nmrhEZ9v886TtsLUwX5WC2IZu/ygMFanIcBHSx1a1yp/c2UDogBvRkjx46ykMGNCB\nlkuK2fF1CYwhxOTbe7nukdQ6SGBibV9liNZeZsUmYsSwnOw4T1uyl1IBQcdJC0Ru\ndyQsuyxe4QP0/PggzKQbzfZhNqrkPFKlh8GcjOWg8BesTCVwgSBZ226ul3qGriiQ\n1YxmMor7WLexcTGUr1qqTTlTzX9zPJM4aIuosMNcs4IPB7RVRB2XBJk6dSPtepgs\nvJvCNlrSi+OJBmwMoBQsShYS5gz6ZJF83rLwABcFewKBgQDl1HB8F5Hd1Y23lw+X\nf+WcfNTmCfqDeENlUSfcFrlhTwfX+E648WXB5fq9ychIkdITA6Kmy9HL4yxfHHtJ\n2Mam+J7OcvX6V02/JuN7vJeJiuoUbLjYBOiehSV+vNynTfOfJ0akoomiappz7JX2\nJTqBQk5c9g4+H2MS3RGm3vZA5wKBgQC8oiALiyN/CQBBBneUvXiJZpVxpbW4zvTy\nPI7cc4v6qnEABFvZw7h06u09NVgg0rXgOiMjrUym/GxhZGoJsnRb57S4yD1FS5T2\nzoKMo6cKNGm9hyE+X2mBbFkXK3N+LhBbANgnVSu7CK7xhVH/ylkT346ZQT3uotHH\nPX+sOqukswKBgQCLd+FSzJLOBXvcfyUNEKXr0qz3c/K7uU1cvGTt4DRa4rSl0J8l\nCAhyI/eHGF4b+7F5rGkVwvXrPk584THH3G6ggJsOOSEf677YUucU/ZsP8maeQmPh\nYwkuuSnJwR49wMYoPJNX8PKIxxw3YMiX+HuKWQxoyUBXXoCmv9SoaQES3QKBgAGD\nk5pEHZ7RZa0f7inFc4g2yJBG8jRvhMvE7KicTM1QPOPxJQOUbJCTqh/Jo9Fvn4IT\nNWD97RWSBRSrB6bYRdLPA0ZQZR1/Q8zPT4Dtd1O/o/GfegbUITamtfhXou+qUvtI\nAHQgXN99bFoH5eaVqy1bp/tW6LZXnDNrLPEm72W9AoGAa9aTVghcQB0TGvPAyh42\ndUz1YbhUPOnpYk5n6LU53sg3y4iAvH+7R6o4GM4iA9ETS1arMfnnMlrZesL5WcXU\nMpZ9QBXApPXca7nA0W5Eqvvjiqp/Z8jaX6YQDPgpe5BI18lKmasZfnBcETVREi8o\nrXBkQBpQX91DfDgbFHXNs/4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "travis@musicapp-e626f.iam.gserviceaccount.com",
+  "client_id": "115183705356192545401",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/travis%40musicapp-e626f.iam.gserviceaccount.com"
+}
