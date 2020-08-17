@@ -15,12 +15,12 @@ after_success:
         - docker push anoopkr05/multi-nginx
         - docker push anoopkr05/multi-server
         - docker push anoopkr05/multi-worker
-deploy:
-        provider: gae
-        keyfile: home.json
-        project: home-25e82
-        on:
-               all_branches: true
+#deploy:
+#        provider: gae
+#        keyfile: home.json
+#        project: home-25e82
+#        on:
+#               all_branches: true
 #deploy:
 #        provider: elasticbeanstalk
 #        region: "ap-south-1"
